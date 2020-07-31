@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Royal Ambassador</string>
+    <string name="nav_header_subtitle">we are ambassador for christ</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Vision</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="vision">Vision</string>
+    <string name="visions">Touching the lives of boys, impacting the eternity of men!
+</string>
+    <string name="founding">1. To become a well informed,responsible follower of Christ.\n\n 2. To have a Christ-like concern for all people.\n\n  3. To carry the message of Christ around the world.\n\n   4. To work with others in sharing Christ.\n\n  5. To keep myself clean and healthy in mind and body.</string>
+    <string name="objectives">1.Helping boys in personal spiritual development and discipleship.\n\n   2. Equipping members for mission action.\n\n   3. Ensuring educational and career development of boys.\n\n   4.Promoting social awareness, responsibility and responsiveness.\n\n   5.\tPromoting personal and corporate discipline and cohesion.\n\n   6. Promoting personal commitment demonstrated in stewardship of life, churchmanship and denominational interest, and understanding as well as an appreciation of Baptist beliefs and practices.\n\n   7. Enabling members personality, potentiality and dignity development.</string>
+    <string name="phys">The foundation, vision and ministries of RAN are responses to the lords command to make disciple of all nation.\n\n Our philosophy of ministry to boys is because it is easy to catch them young. One of the earliest mottos of the organization is: “it is easy to mould boys than to mend men.” Besides, today’s boys are the men of tomorrow. \n\n who will be saddled with the social and spiritual responsibilities of leading humanity and influencing decisions in families, societal, global and spiritual spheres of life.  They must not be left to wrong hands.</string>
+    <string name="abbr">RA – Royal Ambassador \n\n RAs- Royal Ambassadors \n\n RAN- Royal Ambassadors of Nigeria PF- Patrons\' Forum \n\n NPF- National Patron’s Forum \n\n MRC- Manual Review Committee \n\n  LT- Leadership Training \n\n  LTC- Leadership Training Conference \n\n MOD- Missionary Organizations Department \n\n NC- Nominating Committee \n\n NBC- Nigerian Baptist Convention \n\n MMU- Men\'s Missionary Union  \n\n VC- Volunteer Counsellor \n\n RANEC- Royal Ambassadors National Executive Committee \n\n NEC- National Executive Council\n\n RE- Revised Edition \n\n SBC- Southern Baptist Convention \n\n RE- Revised Edition \n\n SBC- Southern Baptist Convention</string>
+</resources>
